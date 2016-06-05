@@ -35,3 +35,4 @@ Unlike the other popular VR Rifle from the UK, this one is open source. You can 
 – 1 black belt
 
 
+Here is a video of the original rifle from UK sold on Ebay: https://youtu.be/TM9Zg_jtbGo?t=441 that works the same way.
