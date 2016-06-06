@@ -4,7 +4,7 @@ Virtual Reality Rifle for use with the HTC Vive
 Unlike the other popular VR Rifle from the UK, this one is open source. You can build it yourself in a few mins with no tools or cutting needed. The idea is to keep both controllers in a straight line when shooting and to make sure the tops of them are not covered so they can still see the lasers from Lighthouse. In this arrangement you can fire like a real rifle once up to your shoulder.
 
 
-![alt tag](https://adestefawp.files.wordpress.com/2016/06/htxm6hd.jpg?w=584&h=584)
+![alt tag](https://adestefawp.files.wordpress.com/2016/06/img_5396.jpg?w=680)
 
 – Light weight overall, but heavy enough where it counts!
 
